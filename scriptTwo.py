@@ -7,4 +7,5 @@ def letterCount(word,letter):
         if x == letter :
             counter = counter+1
     return print(counter)
-letterCount("missisipi", "m")
+missisipiCount = letterCount("missisipi", "m")
+print(missisipiCount)
